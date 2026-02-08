@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a student <br>currently i am pursuing my carrer in btech cse<br>and looking forward to upskill my learning <br>and grow myself in tech industary
+I am a college student <br>currently i am pursuing my carrer in btech cse(AI)<br>and looking forward to upskill my learning <br>and grow myself in tech industary
 
 
 ## 🌐 Socials:
