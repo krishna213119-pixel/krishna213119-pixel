@@ -1,5 +1,23 @@
 # 💫 About Me:
-I am a college student <br>currently i am pursuing my carrer in btech cse(AI)<br>and looking forward to upskill my learning <br>and grow myself in tech industary
+My name is Krishna.
+
+I am passionate about technology and innovation.
+
+My ultimate goal is to become an AI Engineer.
+
+I enjoy coding in Python and solving challenging problems.
+
+I am exploring Machine Learning and Deep Learning concepts.
+
+I am also diving into Generative AI (GenAI) concepts.
+
+I am curious about how transformers and large language models work.
+
+I like building real-world AI projects to strengthen my skills.
+
+I continuously improve my analytical and problem-solving abilities.
+
+I am determined to build intelligent and creative AI systems that make an impact.
 
 
 ## 🌐 Socials:
