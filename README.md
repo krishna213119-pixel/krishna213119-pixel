@@ -5,7 +5,7 @@ I am passionate about technology and innovation.
 
 My ultimate goal is to become an AI Engineer.
 
-I enjoy coding in Python and solving challenging problems.
+I enjoy coding in Python ,c++ and solving challenging problems.
 
 I am exploring Machine Learning and Deep Learning concepts.
 
