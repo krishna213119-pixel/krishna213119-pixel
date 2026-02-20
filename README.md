@@ -3,55 +3,71 @@
 🎓 B.Tech Computer Science Student @ KIET
 🤖 Aspiring AI Engineer
 📍 Ghaziabad, India
+
 🚀 About Me
 
 I am a 1st-year Computer Science student passionate about Artificial Intelligence and Machine Learning.
 
-I build and deploy end-to-end ML applications focused on solving real-world problems.
+I build and deploy end-to-end Machine Learning applications focused on solving real-world problems.
 
-Currently exploring advanced ML concepts and improving my problem-solving skills.
+Currently strengthening my understanding of supervised learning, model evaluation, and algorithm implementation from scratch.
 
 🧠 Featured Projects
-
 🚢 Titanic Survival Prediction
 
-Compared Logistic Regression, Decision Tree, KNN, Random Forest
+Compared Logistic Regression, Decision Tree, KNN, and Random Forest
 
-Performed feature engineering & preprocessing
+Performed feature engineering and preprocessing using Pandas & NumPy
+
+Evaluated models using accuracy metrics
 
 Deployed interactive Streamlit application
 
 🔗 Live Demo: https://allmlmodel-a849hjvydrbmuajbx2myfs.streamlit.app/
 
+🔗 Repository: https://github.com/krishna213119-pixel/ALL_ML_MODEL
+
 🎬 Movie Recommendation System
 
 Built content-based recommender using TF-IDF
 
-Implemented cosine similarity
+Implemented cosine similarity for content matching
 
-Deployed user-friendly web app
+Designed user-friendly web interface
+
+Deployed using Streamlit
 
 🔗 Live Demo: https://movie-recommender-jymqnushfvnnxgticccj2x.streamlit.app/
+
+🔗 Repository: https://github.com/krishna213119-pixel/movie-recommender
 
 🏏 IPL Winner Prediction
 
 Built supervised classification model
 
-Applied data preprocessing & feature engineering
+Applied data preprocessing and feature engineering
+
+Trained and evaluated match outcome prediction model
 
 Deployed interactive prediction interface
 
 🔗 Live Demo: https://ks3shq7qi64apg6wznuccc.streamlit.app/
 
+🔗 Repository: https://github.com/krishna213119-pixel/IPL_ML
+
 🌸 Flower Classification (Perceptron From Scratch)
 
-Implemented Perceptron algorithm manually
+Implemented Perceptron algorithm manually for binary classification
 
-Built binary classifier using NumPy
+Applied normalization using NumPy
 
-Evaluated model performance using  accuarcy matrices
+Built linear decision boundary model
+
+Evaluated performance using accuracy metric
 
 🔗 Live Demo: https://dlproject-git-appxh8jmchzokr8ta9rfz3p.streamlit.app/
+
+🔗 Repository: https://github.com/krishna213119-pixel/DL_PROJECT-
 
 🛠 Tech Stack
 
@@ -60,8 +76,6 @@ Python • Scikit-learn • NumPy • Pandas • PyTorch • Streamlit • Git
 📫 Connect With Me
 
 📧 krishna2131192@gmail.com
-
-## 🌐 Socials:
 
 🔗 LinkedIn: https://www.linkedin.com/in/krishna-gupta-622a19389
 
