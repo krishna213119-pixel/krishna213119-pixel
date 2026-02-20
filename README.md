@@ -47,7 +47,8 @@ Implemented Perceptron algorithm manually
 
 Built binary classifier using NumPy
 
-Evaluated model performance
+Evaluated model performance using  accuarcy matrices
+🔗 Live Demo: https://dlproject-git-appxh8jmchzokr8ta9rfz3p.streamlit.app/
 
 🛠 Tech Stack
 
@@ -57,9 +58,11 @@ Python • Scikit-learn • NumPy • Pandas • PyTorch • Streamlit • Git
 
 📧 krishna2131192@gmail.com
 
+## 🌐 Socials:
+
 🔗 LinkedIn: https://www.linkedin.com/in/krishna-gupta-622a19389
 
-## 🌐 Socials:
+
  
 
 # 💻 Tech Stack:
