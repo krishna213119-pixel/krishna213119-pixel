@@ -1,27 +1,66 @@
-# 💫 About Me:
-My name is Krishna.
+👋 Hi, I'm Krishna Gupta
 
-I am passionate about technology and innovation.
+🎓 B.Tech Computer Science Student @ KIET
+🤖 Aspiring AI Engineer
+📍 Ghaziabad, India
+🚀 About Me
 
-My ultimate goal is to become an AI Engineer.
+I am a 1st-year Computer Science student passionate about Artificial Intelligence and Machine Learning.
 
-I enjoy coding in Python ,c++ and solving challenging problems.
+I build and deploy end-to-end ML applications focused on solving real-world problems.
 
-I am exploring Machine Learning and Deep Learning concepts.
+Currently exploring advanced ML concepts and improving my problem-solving skills.
+🧠 Featured Projects
+🚢 Titanic Survival Prediction
 
-I am also diving into Generative AI (GenAI) concepts.
+Compared Logistic Regression, Decision Tree, KNN, Random Forest
 
-I am curious about how transformers and large language models work.
+Performed feature engineering & preprocessing
 
-I like building real-world AI projects to strengthen my skills.
+Deployed interactive Streamlit application
 
-I continuously improve my analytical and problem-solving abilities.
+🔗 Live Demo: https://allmlmodel-a849hjvydrbmuajbx2myfs.streamlit.app/
 
-I am determined to build intelligent and creative AI systems that make an impact.
+🎬 Movie Recommendation System
 
+Built content-based recommender using TF-IDF
+
+Implemented cosine similarity
+
+Deployed user-friendly web app
+
+🔗 Live Demo: https://movie-recommender-jymqnushfvnnxgticccj2x.streamlit.app/
+
+🏏 IPL Winner Prediction
+
+Built supervised classification model
+
+Applied data preprocessing & feature engineering
+
+Deployed interactive prediction interface
+
+🔗 Live Demo: https://ks3shq7qi64apg6wznuccc.streamlit.app/
+
+🌸 Flower Classification (Perceptron From Scratch)
+
+Implemented Perceptron algorithm manually
+
+Built binary classifier using NumPy
+
+Evaluated model performance
+
+🛠 Tech Stack
+
+Python • Scikit-learn • NumPy • Pandas • PyTorch • Streamlit • Git
+
+📫 Connect With Me
+
+📧 krishna2131192@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/krishna-gupta-622a19389
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_krishna_2411_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-gupta-622a19389) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishna213119@gmail.com) 
+ 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
