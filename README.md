@@ -13,6 +13,7 @@ I build and deploy end-to-end Machine Learning applications focused on solving r
 Currently strengthening my understanding of supervised learning, model evaluation, and algorithm implementation from scratch.
 
 🧠 Featured Projects
+
 🚢 Titanic Survival Prediction
 
 Compared Logistic Regression, Decision Tree, KNN, and Random Forest
