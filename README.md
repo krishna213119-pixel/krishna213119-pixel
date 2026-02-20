@@ -3,7 +3,7 @@
 🎓 B.Tech Computer Science Student @ KIET
 🤖 Aspiring AI Engineer
 📍 Ghaziabad, India
-
+--
 🚀 About Me
 
 I am a 1st-year Computer Science student passionate about Artificial Intelligence and Machine Learning.
