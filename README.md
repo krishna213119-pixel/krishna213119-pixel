@@ -11,7 +11,7 @@ I am a 1st-year Computer Science student passionate about Artificial Intelligenc
 I build and deploy end-to-end Machine Learning applications focused on solving real-world problems.
 
 Currently strengthening my understanding of supervised learning, model evaluation, and algorithm implementation from scratch.
-
+--
 🧠 Featured Projects
 
 🚢 Titanic Survival Prediction
@@ -27,7 +27,7 @@ Deployed interactive Streamlit application
 🔗 Live Demo: https://allmlmodel-a849hjvydrbmuajbx2myfs.streamlit.app/
 
 🔗 Repository: https://github.com/krishna213119-pixel/ALL_ML_MODEL
-
+--
 🎬 Movie Recommendation System
 
 Built content-based recommender using TF-IDF
@@ -41,7 +41,7 @@ Deployed using Streamlit
 🔗 Live Demo: https://movie-recommender-jymqnushfvnnxgticccj2x.streamlit.app/
 
 🔗 Repository: https://github.com/krishna213119-pixel/movie-recommender
-
+--
 🏏 IPL Winner Prediction
 
 Built supervised classification model
@@ -55,7 +55,7 @@ Deployed interactive prediction interface
 🔗 Live Demo: https://ks3shq7qi64apg6wznuccc.streamlit.app/
 
 🔗 Repository: https://github.com/krishna213119-pixel/IPL_ML
-
+--
 🌸 Flower Classification (Perceptron From Scratch)
 
 Implemented Perceptron algorithm manually for binary classification
@@ -69,18 +69,18 @@ Evaluated performance using accuracy metric
 🔗 Live Demo: https://dlproject-git-appxh8jmchzokr8ta9rfz3p.streamlit.app/
 
 🔗 Repository: https://github.com/krishna213119-pixel/DL_PROJECT-
-
+--
 🛠 Tech Stack
 
 Python • Scikit-learn • NumPy • Pandas • PyTorch • Streamlit • Git
-
+--
 📫 Connect With Me
 
 📧 krishna2131192@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/krishna-gupta-622a19389
 
-
+--
  
 
 # 💻 Tech Stack:
