@@ -10,7 +10,9 @@ I am a 1st-year Computer Science student passionate about Artificial Intelligenc
 I build and deploy end-to-end ML applications focused on solving real-world problems.
 
 Currently exploring advanced ML concepts and improving my problem-solving skills.
+
 🧠 Featured Projects
+
 🚢 Titanic Survival Prediction
 
 Compared Logistic Regression, Decision Tree, KNN, Random Forest
