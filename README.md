@@ -70,6 +70,28 @@ Evaluated performance using accuracy metric
 
 🔗 Repository: https://github.com/krishna213119-pixel/DL_PROJECT-
 --
+⚡ Pokémon Battle Predictor
+
+📌 Problem: Predict winner between two Pokémon using battle stats
+
+🔍 What I Did
+
+Built ML classification model using 12 stat-based features
+
+Designed custom dark Pokémon-themed UI
+
+Implemented probability-based winner prediction
+
+Handled deployment debugging (Python version, model loading, dependency conflicts)
+
+Deployed fully functional ML app on Streamlit Cloud
+🚀 Live Demo
+
+👉 https://pokemonml-3i3femewbgxx4sq6wphmvk.streamlit.app/
+💻 GitHub Repository
+
+👉 https://github.com/krishna213119-pixel/POKEMON_ML
+--
 🛠 Tech Stack
 
 Python • Scikit-learn • NumPy • Pandas • PyTorch • Streamlit • Git
